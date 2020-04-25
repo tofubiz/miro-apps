@@ -7,3 +7,4 @@
 .idea/vcs.xml
 miro-apps.iml
 node_modules/
+.cache/
