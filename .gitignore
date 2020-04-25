@@ -1,0 +1,9 @@
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/codeStyles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/sbt.xml
+.idea/vcs.xml
+miro-apps.iml
+node_modules/
